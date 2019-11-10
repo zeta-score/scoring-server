@@ -23,3 +23,17 @@ Then install the pip requirements
 Now just start the server!
 
 `$ python app.py`
+
+
+## Running a Ropsten node
+
+Download a reference implementation of the Ethereum client
+
+We are using Trinity
+
+Follow their guide here to install 
+
+[https://trinity-client.readthedocs.io/en/latest/quickstart.html](https://trinity-client.readthedocs.io/en/latest/quickstart.html)
+
+*Note: if you have issues compiling snappy on macOS, see here [https://stackoverflow.com/a/41707800](https://stackoverflow.com/a/41707800)*
+
